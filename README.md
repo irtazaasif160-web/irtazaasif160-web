@@ -2,37 +2,46 @@
 
 ### n8n Automation Developer | AI Workflows | Business Automation
 
-I build practical automation systems that help businesses reduce repetitive work and connect their tools efficiently.
+I build practical automation systems that connect applications, APIs, AI tools, and business processes.
 
-## 🚀 What I Build
+My focus is creating reliable workflows that reduce repetitive work, improve efficiency, and solve real business problems.
+
+## 🚀 What I Work With
 
 - ⚙️ n8n Workflow Automation
-- 🤖 AI-Powered Workflows
-- 🔗 API & Webhook Integrations
-- 📊 Google Sheets Automation
-- 📧 Email & Business Process Automation
-- 🌐 Frontend + n8n Backend Systems
+- 🤖 AI & LLM Integrations
+- 🔗 REST APIs & Webhooks
+- 📊 Data & Spreadsheet Automation
+- 📧 Email Automation
+- 🔄 Business Process Automation
+- 🌐 Frontend + Automation Backend Integration
+- 🛠️ Custom Workflow Logic
 
-## 🛠️ Tools & Technologies
+## 🧰 Technologies & Tools
 
-**n8n • APIs • Webhooks • JavaScript • Google Sheets • Gmail • GitHub • AI/LLMs**
+**n8n • JavaScript • REST APIs • Webhooks • JSON • Google Sheets • Gmail • GitHub • AI/LLMs**
 
-## 💼 Featured Project
+## 💡 Projects
 
-### Invoice Management & Automation System
+I build automation projects across different business use cases, including:
 
-A complete invoice management system using **n8n as the automation/backend layer**, Google Sheets as the database, and a web frontend.
+- Invoice & Payment Automation
+- Lead Management Systems
+- Customer Support Automation
+- Attendance Management
+- E-commerce & Product Monitoring
+- AI Content Workflows
+- Reminder & Notification Systems
+- API-Based Business Integrations
 
-**Features:**
-- Invoice creation and editing
-- Draft and publishing workflow
-- Payment tracking
-- Automatic invoice calculations
-- PDF invoice generation
-- Gmail draft creation
-- Payment and activity history
-- Invoice search
-- Overdue invoice tracking
-- Reminder automation
+## 🎯 Current Focus
 
-More automation projects coming soon.
+I'm continuously building production-style automation systems while improving my skills in:
+
+**Automation Architecture • APIs • AI Agents • JavaScript • Databases • Backend Integrations**
+
+## 📫 Let's Connect
+
+Interested in automation or have a process that could be automated?
+
+Feel free to explore my repositories and projects.
