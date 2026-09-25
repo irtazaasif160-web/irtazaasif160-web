@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Irtaza 👋
 
-<!--
-**irtazaasif160-web/irtazaasif160-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### n8n Automation Developer | AI Workflows | Business Automation
 
-Here are some ideas to get you started:
+I build practical automation systems that help businesses reduce repetitive work and connect their tools efficiently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Build
+
+- ⚙️ n8n Workflow Automation
+- 🤖 AI-Powered Workflows
+- 🔗 API & Webhook Integrations
+- 📊 Google Sheets Automation
+- 📧 Email & Business Process Automation
+- 🌐 Frontend + n8n Backend Systems
+
+## 🛠️ Tools & Technologies
+
+**n8n • APIs • Webhooks • JavaScript • Google Sheets • Gmail • GitHub • AI/LLMs**
+
+## 💼 Featured Project
+
+### Invoice Management & Automation System
+
+A complete invoice management system using **n8n as the automation/backend layer**, Google Sheets as the database, and a web frontend.
+
+**Features:**
+- Invoice creation and editing
+- Draft and publishing workflow
+- Payment tracking
+- Automatic invoice calculations
+- PDF invoice generation
+- Gmail draft creation
+- Payment and activity history
+- Invoice search
+- Overdue invoice tracking
+- Reminder automation
+
+More automation projects coming soon.
